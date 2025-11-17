@@ -1,6 +1,6 @@
 Hi there, I'm Harsha! 👋
 🎓 About Me
-I'm a third-year student studying Electronics and Communication (VLSI).
+I'm a final-year student studying Electronics and Communication (VLSI).
 I'm passionate about programming and electronics, and I enjoy combining them to create innovative projects.
 
 💻 What I Do
